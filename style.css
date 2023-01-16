@@ -59,7 +59,7 @@ h1:hover {
 }
 
 .bg-image {
-    background-image: url(../currículo/img/background-pq.jpg);
+    background-image: url(img/background-pq.jpg);
     position: relative;
     transform: translate(0%, 43%);
     height: 200px;
